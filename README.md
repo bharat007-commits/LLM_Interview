@@ -1,5 +1,5 @@
 # LLM_Interview
-1.Prompt Engineering & Basics of LLM
+**1.Prompt Engineering & Basics of LLM**
 a. What is the difference between Predictive/Discriminative AI and Generative AI? 
 Predictive AI Example:
 You show a machine a photo of an animal and ask, "Is this a dog or a cat?"
